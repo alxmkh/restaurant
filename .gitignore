@@ -352,3 +352,4 @@ MigrationBackup/
 # Custom files.
 node_modules
 .jshintrc
+.DS_Store
